@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @SecretRoomSR
+- 👀 I’m interested in Game Making
+- 🌱 I’m currently learning C#
+- 📫 You can reach me by using the email theblockyguytbg0986@gmail.com
